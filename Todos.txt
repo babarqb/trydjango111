@@ -1,0 +1,8 @@
+1- make directory and goes into
+2- virtualenv -p python3 .
+    create env on same directory which created
+3- source bin/activate  activate env
+    pip freeze   for checking package installed
+4- pip install django==1.11.2
+5- mkdir src && cd src
+6- django-admin.py startproject trydjango1_11 .
